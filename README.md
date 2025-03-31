@@ -28,16 +28,16 @@ Create a visual representation of trends in the price of Bitcoin
 
 # Team responsibilities
 We will both be writing the report as we continue the project. Here is what we think the task breakdown will look like on an individual basis:
-Habit
+### Habit
 - Read PyTorch, scraper, and Poetry documentation
 - Write code to train model and display graphs
 - Test code
-Justin
+### Justin
 - Preprocessing for data
 - Decide which specific model we are to use
 
 # References
-Bitcoin Historical Data
-PyTorch website and docs
-Mark Zielinski's Bitcoin scraper for Kaggle
-Python Poetry (package manager for Bitcoin scraper that we may use)
+[Bitcoin Scraper](https://github.com/mczielinski/kaggle-bitcoin/)
+[Python-Poetry](https://python-poetry.org/)
+[Kaggle btc dataset](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data)
+[Pytorch](https://pytorch.org/)
