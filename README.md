@@ -37,7 +37,7 @@ We will both be writing the report as we continue the project. Here is what we t
 - Decide which specific model we are to use
 
 # References
-[Bitcoin Scraper](https://github.com/mczielinski/kaggle-bitcoin/)
-[Python-Poetry](https://python-poetry.org/)
-[Kaggle btc dataset](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data)
-[Pytorch](https://pytorch.org/)
+- [Bitcoin Scraper](https://github.com/mczielinski/kaggle-bitcoin/)
+- [Python-Poetry](https://python-poetry.org/)
+- [Kaggle btc dataset](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data)
+- [Pytorch](https://pytorch.org/)
