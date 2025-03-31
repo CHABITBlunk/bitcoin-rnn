@@ -1,6 +1,6 @@
 #!/bin/bash
 
-[ ! -d "kaggle-bitcoin" ] && git clone git@github.com:mczielinski/kaggle-bitcoin.git
+[ ! -d "kaggle-bitcoin" ] && git clone git@github.com:chabitblunk/kaggle-bitcoin.git
 
 cd kaggle-bitcoin || exit
 poetry install && poetry run python kaggle_bitcoin/kaggle_update_bitcoin.py
