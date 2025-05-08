@@ -19,7 +19,7 @@ Write code that will create and train our model on this data
 Create a visual representation of trends in the price of Bitcoin
 
 # Timeline
-------- FINAL REPORT DUE MAY 6 --------
+------- FINAL REPORT DUE MAY 8 --------
 - March 24 (earlier if possible) - download the data either using the Bitcoin scraper or straight from Kaggle
 - March 24-28 - read documentation on PyTorch and figure out how to create and train our RNN against this data
 - March 29-30 - determine which specific model we want to use
